@@ -1,1 +1,1 @@
-# Netflix-Recommendor-System
+# Netflix & Prime Movie Recommendation model

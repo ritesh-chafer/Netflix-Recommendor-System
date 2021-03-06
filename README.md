@@ -1,1 +1,1 @@
-# Netflix & Prime Movie Recommendation Nodel
+# Netflix & Prime Movie Recommendation Model
